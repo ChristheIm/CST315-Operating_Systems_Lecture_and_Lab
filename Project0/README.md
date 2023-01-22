@@ -1,4 +1,4 @@
-# Welcome!
+Welcome!
 
 This is a personal repository space for CST-315 course. 
 This repository contains and records the projects throughout the semester. 
