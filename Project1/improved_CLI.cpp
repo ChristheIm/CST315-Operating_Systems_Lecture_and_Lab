@@ -2,9 +2,9 @@
 Kyungchan Im
 CST - 315
 Professor Ricardo Citro
-Feb 12,2023
+Feb 26,2023
 
-Project 1: Unix/Linux Command Line Interpreter
+Project 1: Improved Unix/Linux Command Line Interpreter
 */ 
 // Include the packages to use 
 #include <iostream>            
