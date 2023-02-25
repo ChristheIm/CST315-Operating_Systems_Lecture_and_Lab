@@ -21,16 +21,17 @@ User can play with the executable file once it is generated.
 - When the program is running, it will ask a user either type 'run' or 'quit'.
 - You have to type 'run' to work with a command line
 
-3) cd command is not working
-- I explained why cd command is not working within the documentation, however, there are 
-- more than 5 commands that you can work with. It is within the documentation as well.
-ex. ls, pwd, ps, cat, touch, nano, etc...
-
-4) Within the running stage, there are four options
+3) Within the running stage, there are four options
 --- 1. run a command line : type any command line
 --- 2. create a file ('batch') : type 'batch' to create a file and follow the direction of the prompt
 --- 3. running a file ('file') : type 'file' to read a file and follow the direction of the prompt
 --- 4. terminate the program ('quit')
+--- 5. cd Directory/Second Directory/Third...
+--- 6. cd .. (go back to previous directory)
 
 Detail of the program is within the Project 1 documentation.
 
+------------------------------------------------
+Update <br>
+'cd' command is now working on a improved_CLI.cpp file.
+This file is for improvement of mini terminal project.
